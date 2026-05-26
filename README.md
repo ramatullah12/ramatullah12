@@ -22,23 +22,13 @@
 
 <div align="center">
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
 
-</td>
-
-<td width="50%" align="center">
-
-<img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
-
-</td>
-
-</tr>
-</table>
+</div>
 
 </div>
 
