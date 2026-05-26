@@ -17,25 +17,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Flutter+%26+Laravel+Developer;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
 </div>
-
-
 <div align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramatullah12&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramatullah12&theme=tokyonight" />
 
 
-<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
-
-<img width="40%" src="https://streak-stats.demolab.com?user=ramatullah12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramatullah12&bg_color=1A1B27&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
 
 </div>
+</div>
+
+
+
 
 
 
