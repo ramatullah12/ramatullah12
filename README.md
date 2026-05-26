@@ -22,8 +22,7 @@
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramatullah12&theme=tokyonight" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramatullah12&theme=tokyonight" />
-
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
 
