@@ -106,20 +106,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 Developer Style
-
-### ✨ Clean Code • Modern UI • Scalable Systems
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br><br>
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-</div>
