@@ -20,9 +20,27 @@
 </div>
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramatullah12&theme=tokyonight" />
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramatullah12&theme=tokyonight" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
 
