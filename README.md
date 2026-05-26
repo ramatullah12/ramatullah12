@@ -12,13 +12,17 @@
 
 </div>
 
+<br>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Flutter+%26+Laravel+Developer;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
 </div>
-<div align="center">
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -40,18 +44,11 @@
 </tr>
 </table>
 
-</div>
+<br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
 
 </div>
-</div>
-
-
-
-
-
-
 
 ---
 
@@ -119,3 +116,12 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## ✨ Clean Code • Modern UI • Scalable Systems
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</div>
