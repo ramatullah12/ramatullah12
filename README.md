@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Profile-ramatullah12-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 
-<img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Visitors&color=38BDF8&style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Focus-Fullstack%20Developer-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
 
