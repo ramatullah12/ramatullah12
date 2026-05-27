@@ -106,10 +106,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
-</a>
-
 <a href="mailto:yuantullah@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
