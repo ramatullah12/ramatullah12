@@ -4,20 +4,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile-ramatullah12-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-
-
-<img src="https://img.shields.io/badge/Focus-Fullstack%20Developer-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
-
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Flutter+%26+Laravel+Developer;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 <br>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Flutter+%26+Laravel+Developer;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
-
-</div>
 
 ---
 
