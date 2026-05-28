@@ -19,8 +19,8 @@ jobs:
           github_user_name: ramatullah12
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=38BDF8&color_dots=#ebedf0,#dbeafe,#93c5fd,#60a5fa,#2563eb
-            dist/github-contribution-grid-snake-dark.svg?color_snake=A855F7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
