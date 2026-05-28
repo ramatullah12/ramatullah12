@@ -1,13 +1,17 @@
+```md
 <div align="center">
 
 <img src="./github-header-banner.png" width="100%" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Flutter+%26+Laravel+Developer;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
+<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -15,25 +19,11 @@
 
 <div align="center">
 
-<table>
-<tr>
+<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
-<td width="50%" align="center">
+<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
 
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
 
@@ -51,11 +41,11 @@
 
 ---
 
-<div align="center">
-
 # ⚡ Development Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+%7C+Flutter+%7C+Firebase;Building+Scalable+Applications;Modern+UI%2FUX+Experience;REST+API+Development;Always+Learning+New+Technologies" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Laravel+%7C+Flutter+%7C+Firebase;Building+Scalable+Applications;REST+API+Development;Modern+UI%2FUX+Experience;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -83,6 +73,16 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 # 📫 Connect With Me
 
 <div align="center">
@@ -105,11 +105,9 @@
 
 <div align="center">
 
-## ✨ Clean Code • Modern UI • Scalable Systems
+### ✨ Clean Code • Modern UI • Scalable Systems
 
 ⭐ Thanks for visiting my GitHub Profile ⭐
 
 </div>
-
-<div align="center"> <img src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake.svg" /> 
-</div>
+```
