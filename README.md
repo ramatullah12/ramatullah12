@@ -88,14 +88,14 @@
   />
 
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake-dark.svg"
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake.svg"
+    width="100%"
   />
 
 </picture>
 
 </div>
-
 ---
 
 # 📫 Connect With Me
