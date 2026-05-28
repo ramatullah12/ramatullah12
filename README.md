@@ -3,13 +3,10 @@
 
 <img src="./github-header-banner.png" width="100%" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 
 </div>
 
@@ -53,6 +50,8 @@
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 | 🚀 Project | 📖 Description |
 |---|---|
 | 🚜 Rakentra | Heavy equipment rental management system using Laravel & MySQL |
@@ -60,6 +59,8 @@
 | 🎫 Ticket Reservation | Reservation system application |
 | 📱 Flutter Applications | Mobile applications integrated with Firebase |
 | 🔔 Firebase Notification App | Push notification app using Firebase Cloud Messaging |
+
+</div>
 
 ---
 
@@ -110,4 +111,4 @@
 ⭐ Thanks for visiting my GitHub Profile ⭐
 
 </div>
-```
+
