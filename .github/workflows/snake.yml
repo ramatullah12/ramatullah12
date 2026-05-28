@@ -16,12 +16,13 @@ jobs:
 
     steps:
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ramatullah12
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=38BDF8&color_dots=#0D1117,#111827,#1E293B,#2563EB,#38BDF8
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
