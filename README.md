@@ -110,3 +110,9 @@
 ⭐ Thanks for visiting my GitHub Profile ⭐
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/snake.svg" alt="Snake animation" />
+
+</div>
