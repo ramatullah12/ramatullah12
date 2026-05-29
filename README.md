@@ -77,11 +77,7 @@
 
 <picture>
 
-  <!-- Dark Mode -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake-dark.svg"
-  />
+  
 
   <!-- Light Mode -->
   <source
@@ -97,7 +93,7 @@
 
 </picture>
 
-</div>
+</div>\
 ---
 
 # 📫 Connect With Me
