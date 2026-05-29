@@ -4,9 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 
 </div>
+
+---
+
+# 👋 About Me
+
+```text
+🎓 Information Systems Student
+💻 Fullstack Web Developer
+📱 Flutter Mobile Developer
+⚡ Laravel & REST API Enthusiast
+🚀 Passionate About Modern Technology
+```
 
 ---
 
@@ -14,13 +30,27 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
+<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia"/>
 
 <br><br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramatullah12&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ramatullah12&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -30,7 +60,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,flutter,dart,php,mysql,firebase,js,html,css,tailwind,nodejs,git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,flutter,dart,php,mysql,firebase,js,html,css,tailwind,nodejs,git,github,vscode,figma,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| Focus Area | Description |
+|------------|------------|
+| 🚜 Heavy Equipment Rental System | Laravel-Based Management Information System |
+| 📱 Flutter Development | Cross Platform Mobile Applications |
+| 🔥 Firebase Integration | Authentication, FCM & Firestore |
+| 🌐 REST API Development | Secure API Integration |
+| 📊 Dashboard & Reporting | Business Analytics & Monitoring |
 
 </div>
 
@@ -40,7 +86,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Laravel+%7C+Flutter+%7C+Firebase;Building+Scalable+Applications;REST+API+Development;Modern+UI%2FUX+Experience;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Laravel+%7C+Flutter+%7C+Firebase;Building+Scalable+Applications;REST+API+Development;Modern+UI%2FUX+Experience;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 💡 Expertise
+
+<div align="center">
+
+| Backend | Frontend | Mobile | Database |
+|----------|----------|----------|----------|
+| Laravel | HTML5 | Flutter | MySQL |
+| PHP | CSS3 | Dart | Firebase |
+| REST API | Tailwind CSS | FCM | Firestore |
 
 </div>
 
@@ -49,12 +109,22 @@
 # 🚀 Featured Projects
 
 | 🚀 Project | 📖 Description |
-|---|---|
-| 🚜 Rakentra | Heavy equipment rental management system using Laravel & MySQL |
-| 🏠 Perumahan App | Housing management application |
-| 🎫 Ticket Reservation | Reservation system application |
-| 📱 Flutter Applications | Mobile applications integrated with Firebase |
-| 🔔 Firebase Notification App | Push notification system using Firebase Cloud Messaging |
+|------------|---------------|
+| 🚜 Rakentra | Heavy Equipment Rental Management System using Laravel & MySQL |
+| 🏠 Perumahan App | Housing Management Information System |
+| 🎫 Ticket Reservation | Reservation & Booking Application |
+| 📱 Flutter Applications | Mobile Apps Integrated with Firebase |
+| 🔔 Firebase Notification App | Push Notification System using FCM |
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramatullah12&bg_color=0D1117&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -62,11 +132,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,firebase,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,firebase,mysql&theme=dark"/>
 
 </div>
 
-
+---
 
 # 📫 Connect With Me
 
@@ -76,12 +146,12 @@
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
 <a href="mailto:yuantullah@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -90,7 +160,9 @@
 
 <div align="center">
 
-### ✨ Clean Code • Modern UI • Scalable Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=120&section=footer"/>
+
+### 🚀 Laravel • Flutter • Fullstack Developer
 
 ⭐ Thanks for visiting my GitHub Profile ⭐
 
