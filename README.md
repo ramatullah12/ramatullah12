@@ -137,7 +137,6 @@
 <a href="https://www.linkedin.com/in/yuan-ramatullah/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
-
 </div>
 
 ---
