@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
+</div>
 
 ---
 
@@ -47,8 +48,6 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 | 🚀 Project | 📖 Description |
 |---|---|
 | 🚜 Rakentra | Heavy equipment rental management system using Laravel & MySQL |
@@ -56,8 +55,6 @@
 | 🎫 Ticket Reservation | Reservation system application |
 | 📱 Flutter Applications | Mobile applications integrated with Firebase |
 | 🔔 Firebase Notification App | Push notification system using Firebase Cloud Messaging |
-
-</div>
 
 ---
 
@@ -69,32 +66,7 @@
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-  
-
-  <!-- Light Mode -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake.svg"
-  />
-
-  <!-- Default -->
-  <img
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/ramatullah12/ramatullah12/output/github-contribution-grid-snake.svg"
-  />
-
-</picture>
-
-</div>\
----
 
 # 📫 Connect With Me
 
