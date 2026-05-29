@@ -8,21 +8,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 
 </div>
 
----
 
-# 👋 About Me
 
-```text
-🎓 Information Systems Student
-💻 Fullstack Web Developer
-📱 Flutter Mobile Developer
-⚡ Laravel & REST API Enthusiast
-🚀 Passionate About Modern Technology
-```
 
 ---
 
@@ -34,25 +24,13 @@
 
 <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia"/>
 
-<br><br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramatullah12&theme=tokyonight&hide_border=true"/>
-
-<br><br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight"/>
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ramatullah12&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
