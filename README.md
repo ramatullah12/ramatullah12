@@ -20,6 +20,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
+
 </td>
 
 <td align="center" width="50%">
@@ -54,6 +55,7 @@
 
 <div align="center">
 
+
 | Focus Area | Description |
 |------------|------------|
 | 🚜 Heavy Equipment Rental System | Laravel-Based Management Information System |
@@ -61,6 +63,7 @@
 | 🔥 Firebase Integration | Authentication, FCM & Firestore |
 | 🌐 REST API Development | Secure API Integration |
 | 📊 Dashboard & Reporting | Business Analytics & Monitoring |
+| ☁️ Cloud Deployment | Vercel, Cloudinary & Modern Hosting |
 
 </div>
 
@@ -84,7 +87,8 @@
 |----------|----------|----------|----------|
 | Laravel | HTML5 | Flutter | MySQL |
 | PHP | CSS3 | Dart | Firebase |
-| REST API | Tailwind CSS | FCM | Firestore |
+| REST API | Tailwind CSS | Firebase FCM | Firestore |
+| Express.js | JavaScript | Android Apps | SQL Database |
 
 </div>
 
