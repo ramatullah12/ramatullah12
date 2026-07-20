@@ -31,14 +31,6 @@
 
 </tr>
 </table>
-
-</div>
-
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramatullah12&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 💻 Tech Stack
