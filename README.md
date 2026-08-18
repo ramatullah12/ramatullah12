@@ -12,10 +12,8 @@
 
 # 📊 GitHub Analytics
 <div align="center">
-
 <table>
 <tr>
-
 <td align="center" width="50%">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -137,9 +135,8 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=120&section=footer"/>
+<div alight="center">
+  <img src="https://capsule-render.varcel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=120&section=footer"/>
 
 ### 🚀 Laravel • Flutter • Fullstack Developer
 
