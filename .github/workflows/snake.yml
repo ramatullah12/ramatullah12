@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -13,9 +13,12 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,7 +27,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        continue-on-error: true
+        with:
+          username: ramatullah12
+          options: bg_color=0D1117&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
