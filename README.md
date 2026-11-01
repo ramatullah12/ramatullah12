@@ -4,13 +4,40 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+%26+Mobile+Applications;REST+API+%26+Firebase+Architecture;Clean+Code+%26+Intuitive+UI%2FUX;Scalable+Fullstack+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Laravel+%26+Flutter+Developer;Building+Modern+Web+Applications;REST+API+%26+Firebase+Integration;Clean+Code+%26+Modern+UI%2FUX;Scalable+Fullstack+Systems" />
 
-<br/>
+<br>
 
-<a href="https://github.com/ramatullah12">
-  <img src="https://komarev.com/ghpvc/?username=ramatullah12&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
-</a>
+---
+
+# 📊 GitHub Analytics
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramatullah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramatullah12&layout=compact&langs_count=8&theme=algolia" />
+
+</td>
+
+</tr>
+</table>
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,dart,php,mysql,firebase,js,html,css,tailwind,nodejs,git,github,vscode,figma,postman&theme=dark"/>
 
 </div>
 
@@ -144,9 +171,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=120&section=footer" width="100%" alt="Footer Wave" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=120&section=footer"/>
 
 ### 🚀 Laravel • Flutter • Fullstack Developer
 ⭐ *Thanks for visiting my GitHub Profile! Feel free to star my repositories.* ⭐
